@@ -1,6 +1,6 @@
 # Humanoid Goalkeeper
 
-<!-- [![arXiv](https://img.shields.io/badge/arXiv-2510.14454-brown)](https://arxiv.org/abs/2510.14454) -->
+[![arXiv](https://img.shields.io/badge/arXiv-2510.18002-brown)](https://arxiv.org/abs/2510.18002)
 [![Website 🚀](https://img.shields.io/badge/Website-%F0%9F%9A%80-yellow)](https://humanoid-goalkeeper.github.io/Goalkeeper/)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![YouTube 🎬](https://img.shields.io/badge/Youtube-🎬-red)](https://youtu.be/ZK0gPame19M)
@@ -86,7 +86,7 @@ For any questions, please email **junlir@connect.hku.hk**. We will respond as so
 
 If you find our work useful, please consider citing:
 ```
-@article{ren2025goalkeeper,
+@article{ren2025humanoidgoalkeeper,
   title={Humanoid Goalkeeper: Learning from Position Conditioned Task-Motion Constraints},
   author={Ren, Junli, Long, Jungfeng, Huang, Tao and Wang, Huayi, Wang, Zirui and Jia, Feiyu, Zhang, Wentao and Wang, Jingbo, Ping Luo and Pang, Jiangmiao},
   year={2025}
